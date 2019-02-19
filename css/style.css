@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+h3 {
+  display: none;
+  color: #ffa500;
+  font-family: Candal;
+  font-size: 50px;
+  margin-top: 0vh;
+  font-weight: bold;
+}
+p {
+	font-size:25px;
+	color: #800000;
+	font-family: Candal;
+	font-weight: bold;
+  padding:0;
+  margin-bottom: 0;
+}
